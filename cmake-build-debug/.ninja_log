@@ -1,0 +1,25 @@
+# ninja log v5
+152	321	7024565471927336	base/CMakeFiles/base.dir/__/external/ktx/lib/swap.c.obj	35ef3069988dbaab
+124	358	7024565472297676	base/CMakeFiles/base.dir/__/external/ktx/lib/texture.c.obj	a719c0a70c918960
+169	390	7024565472637983	base/CMakeFiles/base.dir/__/external/ktx/lib/filestream.c.obj	50134b33a0c2661f
+139	539	7024565473999220	base/CMakeFiles/base.dir/__/external/imgui/imgui_demo.cpp.obj	f87b9763702476db
+2	554	7024565474239438	base/CMakeFiles/base.dir/__/external/imgui/imgui_draw.cpp.obj	408e122e541b5642
+109	632	7024565474829972	base/CMakeFiles/base.dir/__/external/ktx/lib/hashlist.c.obj	88e1abc7103f222b
+18	634	7024565475040167	base/CMakeFiles/base.dir/__/external/imgui/imgui_widgets.cpp.obj	5a1f303b4de15d7a
+159	668	7024565475090209	base/CMakeFiles/base.dir/__/external/ktx/lib/checkheader.c.obj	4d9f5c6b9fa63e87
+145	803	7024565476061089	base/CMakeFiles/base.dir/__/external/ktx/lib/memstream.c.obj	2493ca0d7ba58fdb
+132	1211	7024565479765733	base/CMakeFiles/base.dir/__/external/imgui/imgui.cpp.obj	1d06335ef34d652a
+10	1471	7024565483108773	base/CMakeFiles/base.dir/VulkanAndroid.cpp.obj	6f878eb0e819e17f
+31	1568	7024565484389938	base/CMakeFiles/base.dir/VulkanBuffer.cpp.obj	e1bf00657d348c58
+58	1689	7024565485561279	base/CMakeFiles/base.dir/VulkanTexture.cpp.obj	37479bc8fa9479aa
+43	1691	7024565485601318	base/CMakeFiles/base.dir/VulkanSwapChain.cpp.obj	c650a9d9b1338d2c
+65	2499	7024565493079793	base/CMakeFiles/base.dir/VulkanTools.cpp.obj	a1a788512a18738f
+88	2510	7024565493752635	base/CMakeFiles/base.dir/VulkanUIOverlay.cpp.obj	f6cca941a5af339c
+37	2579	7024565494494419	base/CMakeFiles/base.dir/VulkanDevice.cpp.obj	4e8f22bfb2fce54
+23	2739	7024565496081926	base/CMakeFiles/base.dir/VulkanDebug.cpp.obj	b2fdf2384c126b01
+102	3073	7024565499341363	base/CMakeFiles/base.dir/vulkanexamplebase.cpp.obj	f85ee8ca59642e36
+51	3801	7024565506677458	base/CMakeFiles/base.dir/VulkanRaytracingSample.cpp.obj	b12eb74cdee30eed
+177	4170	7024565510340774	homework/CMakeFiles/homework0.dir/homework0/homework0.cpp.obj	79a86d2862f1f43
+94	6220	7024565530551861	base/CMakeFiles/base.dir/VulkanglTFModel.cpp.obj	aa24b159541cdeca
+6220	6519	7024565533769418	base/base.lib	9754b788d81b4e85
+6519	7850	7024565546343752	bin/homework0.exe	1297076cb793b8b4
